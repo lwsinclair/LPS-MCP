@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/lpsdevelopers-lps-mcp-badge.png)](https://mseep.ai/app/lpsdevelopers-lps-mcp)
+
 # LPS MCP - Servidor de Herramientas para Claude
 
 ## Descripción General
